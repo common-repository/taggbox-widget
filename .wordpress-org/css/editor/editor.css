@@ -1,0 +1,62 @@
+.wp-block-taggbox-block-taggbox {
+}
+.taggbox-icon{
+color: #eb5c99;
+}
+
+.taggbox-editor-main-div{
+    background: #eae5d8;
+    border: 1px solid #c7c3b8;
+    font-family: 'Ubuntu', sans-serif;
+}
+.taggbox-editor-heading{
+    padding: 15px;
+    font-size: 15px;
+}
+.taggbox-editor-widget-main-div{
+    padding: 20px;
+}
+.taggbox-shortcode-div{
+    font-size: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.b-0{border-radius: 0px !important;}
+
+.taggbox-editor-singup-msg-div{
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.taggbox-preview-btn{
+    margin-top: -5px !important;;
+}
+.taggbox-editor-singup-link{
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 900;
+    text-decoration: none !important;
+}
+.taggbox-editor-iframe {
+    background: #eae5d8;
+    border: 1px solid #c7c3b8;
+    height: 250px;
+}
+.taggbox-preview{
+    display: none;
+}
+.taggbox-close-preview-btn {
+   background: red;
+    border-radius: 50%;
+    right: 7px;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    font-size: 20px;
+    top: 3px;
+    z-index: 999999999 !important;
+    position: absolute !important;
+
+}
+.taggbox-preview-hide{display: none;}
+.taggbox-preview-show{display: block;}
